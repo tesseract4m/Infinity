@@ -6,4 +6,4 @@ git add README.md
 git commit -m "first commit"
 git branch -M Omni
 git remote add origin https://github.com/josephomnison/Infinity.git
-git push -u origin Omni
+git push -u origin <Infinity Payments/>
