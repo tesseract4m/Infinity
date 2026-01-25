@@ -1,9 +1,9 @@
 # Project Avada Kedavra
 
-echo "# Infinity Payments" >> README.md
+echo "# Project Avada Kedavra" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M Infinity Payment Links, https://dashboard.infinitycorp.io/payments
-git remote add origin https://github.com/tesseract4m/InfinityPayments.git
-git push -u origin <Infinity Financail Technologies LLC/>
+git branch -M Project Avada Kedavra, https://omnicorp.dev/modal
+git remote add origin https://github.com/tesseract4m/ProjectAvadaKedavra.git
+git push -u origin <Project Avada Kedavra/>
