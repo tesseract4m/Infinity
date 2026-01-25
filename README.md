@@ -1,4 +1,4 @@
-# Infinity
+# Projcet Avada Kedavra
 
 echo "# Infinity Payments" >> README.md
 git init
