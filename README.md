@@ -6,4 +6,4 @@ git add README.md
 git commit -m "first commit"
 git branch -M Project Avada Kedavra, https://omnicorp.dev/ai/llm/modal/
 git remote add origin https://github.com/tesseract4m/ProjectAvadaKedavra.git
-git push -u origin <Project Avada Kedavra/>
+git push -u origin <Project-Avada-Kedavra/>
