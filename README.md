@@ -1,6 +1,6 @@
 # Project Avada Kedavra
 
-echo "# Project Avada Kedavra" >> README.md
+echo "# Project Avada Kedavra" >> 
 git init
 git add README.md
 git commit -m "first commit"
